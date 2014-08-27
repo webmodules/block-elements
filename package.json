@@ -1,0 +1,34 @@
+{
+  "name": "block-elements",
+  "version": "0.0.0",
+  "description": "Array of \"block level elements\" defined by the HTML specification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webmodules/block-elements.git"
+  },
+  "keywords": [
+    "browser",
+    "data",
+    "block",
+    "level",
+    "elements",
+    "html",
+    "html4",
+    "html5",
+    "array"
+  ],
+  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webmodules/block-elements/issues"
+  },
+  "homepage": "https://github.com/webmodules/block-elements",
+  "devDependencies": {
+    "cheerio": "~0.17.0",
+    "superagent": "~0.18.2"
+  }
+}
