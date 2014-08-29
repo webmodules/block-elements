@@ -4,7 +4,8 @@
   "description": "Array of \"block level elements\" defined by the HTML specification",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node build.js > index.js"
   },
   "repository": {
     "type": "git",
