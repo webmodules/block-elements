@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "preinstall": "npm install cheerio superagen && node build.js > index.js"
+    "prepublish": "node build.js > index.js"
   },
   "repository": {
     "type": "git",
