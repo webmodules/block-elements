@@ -27,6 +27,8 @@ module.exports = [
   "header",
   "hgroup",
   "hr",
+  "main",
+  "nav",
   "noscript",
   "ol",
   "output",
