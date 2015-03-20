@@ -1,4 +1,12 @@
 
+1.0.1 / 2015-03-19
+==================
+
+  * add README.md
+  * add LICENSE file
+  * rebuild, add "main" and "nav"
+  * package: add "prepublish" instead (#1, @hemanth)
+
 1.0.0 / 2014-08-27
 ==================
 
