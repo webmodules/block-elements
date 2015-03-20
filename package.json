@@ -1,6 +1,6 @@
 {
   "name": "block-elements",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Array of \"block level elements\" defined by the HTML specification",
   "main": "index.js",
   "scripts": {
