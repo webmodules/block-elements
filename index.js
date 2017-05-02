@@ -8,6 +8,7 @@ module.exports = [
   "article",
   "aside",
   "blockquote",
+  "br",
   "canvas",
   "dd",
   "div",
