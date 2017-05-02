@@ -1,4 +1,10 @@
 
+1.2.0 / 2017-05-02
+==================
+
+  * Document hash and set in README
+  * regenerate index.js
+
 1.1.0 / 2015-03-20
 ==================
 
